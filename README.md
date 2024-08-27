@@ -1,5 +1,3 @@
-# Amazon Sales Analysis Dashboard
-
 ## Project Title: Amazon Sales Dashboard Development Using Power BI
 
 Project Brief: In this project, I designed and developed a comprehensive sales dashboard for Amazon using Power BI. The dashboard provides a detailed overview of key sales metrics and performance indicators to enable data-driven decision-making. Below is a brief description of the dashboard components:
